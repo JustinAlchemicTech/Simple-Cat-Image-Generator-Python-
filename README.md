@@ -7,4 +7,5 @@ The show_cat_picture function sends a GET request to TheCatAPI using the request
 
 The code also includes an example of the show_cat_picture() function, simply calling the function by its name. When executed, this code will display a random cat picture in the notebook.
 <br />
-
+<br/>
+<img src="https://i.imgur.com/z5d4ITR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
