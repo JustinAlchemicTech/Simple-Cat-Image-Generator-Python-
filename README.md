@@ -1,7 +1,5 @@
 <h1>Simple Python Cat Image Generator</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 This short Python code displays a random cat picture using TheCatAPI. The first few lines of the code import the necessary modules to make requests to the API and display the image in the Jupyter notebook.
 
